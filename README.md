@@ -27,4 +27,4 @@ Repositorio para la materia APS (Análisis y Procesamiento de Señales) - Serena
 
 ---
 
-Repositorio gestionado por Serena y colaboradores
+Repositorio gestionado por Serena y colaboradores.
